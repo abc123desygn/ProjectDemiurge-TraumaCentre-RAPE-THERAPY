@@ -30,44 +30,44 @@ None of the sample images were altered, upscaled, etc. All can be reproduced usi
 
 naked 20 year old girl sucking dick, giving blowjob, ((detailed facial features))
 Negative prompt: cum, animated, cartoon, ((blurry)), duplicate
-Size: 512x512, Seed: 2534870666, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 2534870666, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![screengrab](https://user-images.githubusercontent.com/121518935/214595756-f6ce91f8-d225-4325-9b1d-2537e760a2c8.jpeg)
 
 naked 18 year old blonde woman with a veil, praying in a church, getting fuckedi in the ass ((detailed facial features)), ((wide angle))
 Negative prompt: cartoon, animated, pubic hair, mask, ((blurry)), duplicate, (duplicate body parts), close-up, fused fingers, extra fingers
-Size: 512x512, Seed: 3082279051, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 3082279051, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (1)](https://user-images.githubusercontent.com/121518935/214595762-8ea53cac-ee2a-4e92-af24-6c44f41e8a53.jpeg)
 
 
 naked 20 year old girl riding dick, (penis penetrating pussy), (focus on pussy), ((detailed facial features)), wide-angle, full body, stunning
 Negative prompt: cum, animated, cartoon, ((blurry)), duplicate
-Size: 512x512, Seed: 3581029188, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 3581029188, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (2)](https://user-images.githubusercontent.com/121518935/214595765-e117f739-194b-4578-afbc-5f64cc894290.jpeg)
 
 18 year old girl sucking dick, ((detailed facial expressions))
 Negative prompt: childish, child, guly, unnatural limbs
-Size: 512x512, Seed: 2631866370, Model: URPMv1.2, Steps: 50, Sampler: DDIM, CFG scale: 10, Model hash: e0ece800
+Size: 512x512, Seed: 2631866370, Steps: 50, Sampler: DDIM, CFG scale: 10, Model hash: e0ece800
 
 ![width=512 (3)](https://user-images.githubusercontent.com/121518935/214595771-30647f33-3d8b-42cc-b694-19429e725303.jpeg)
 
 18 year old woman, naked in the rain, in a cloudpunk city, ((detailed facial features)), ((wide angle)), (tattoos)
 Negative prompt: cartoon, animated, pubic hair, mask, ((blurry)), duplicate, (duplicate body parts), close-up
-Size: 512x512, Seed: 1573789502, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 1573789502, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (4)](https://user-images.githubusercontent.com/121518935/214595775-267f4705-db29-40b9-9c8e-5f3e2f382b2b.jpeg)
 
 18 year old iranian woman with a veil, in a fighting stance, naked in the rain, in a futuristic cyberpunk city, ((detailed facial features)), ((wide angle)), (tattoos)
 Negative prompt: cartoon, animated, pubic hair, mask, ((blurry)), duplicate, (duplicate body parts), close-up
-Size: 512x512, Seed: 1996240641, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 1996240641, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (5)](https://user-images.githubusercontent.com/121518935/214595779-eb5cb9cd-01ee-4b03-838e-3b52d8777fa7.jpeg)
 
 18 year old woman, naked in the rain, in a cloudpunk city, ((detailed facial features)), ((wide angle)), (tattoos)
 Negative prompt: cartoon, animated, pubic hair, mask, ((blurry)), duplicate, (duplicate body parts), close-up
-Size: 512x512, Seed: 990934600, Model: URPMv1.2, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
+Size: 512x512, Seed: 990934600, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (6)](https://user-images.githubusercontent.com/121518935/214595781-474d2075-44c4-4b99-b246-6587a28c63bf.jpeg)
 
