@@ -213,9 +213,6 @@ The UI exposes three concepts, which seemed like a reasonable number of items to
 If you wish to use more than three concepts at once, you can ignore this section entirely, and instead use
 the "Use Concepts List" option from the Miscellaneous section under the Parameters tab.
 
-You can refer to
-the [Example Concepts List](https://github.com/d8ahazard/sd_dreambooth_extension/blob/main/dreambooth/concepts_list.json)
-for a sample of the JSON format. You can theoretically use any number of concepts this way.
 
 ### Concept Parameters
 
