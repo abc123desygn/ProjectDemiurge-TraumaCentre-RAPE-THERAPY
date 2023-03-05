@@ -56,7 +56,22 @@ Size: 512x768, Seed: 1084997326,
 
 ![156232](https://user-images.githubusercontent.com/121518935/222938563-0f3d31ca-b770-4a66-ac6d-89500be09013.jpeg)
 
+*  photo of a woman on all fours, getting fucked from behind doggystyle
+*  Negative prompt: ((blurry)), duplicate, deformed, makeup, cartoon, animated, render, missing limbs, child, childish
+Size: 512x512, Seed: 334494264, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: f93e6a50ac
 
+![156229](https://user-images.githubusercontent.com/121518935/222940159-e60ea504-bf6b-4a4f-b77f-1e148f7d2f21.jpeg)
+
+*  a photo of a 20 year old woman giving a man a blowjob, (sucking dick), ((detailed face)), man's hand on woman's head
+*  Negative prompt: ((blurry)), duplicate, deformed, cartoon, animated, render
+Size: 512x768, Seed: 3416187986, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: f93e6a50ac
+
+![156230](https://user-images.githubusercontent.com/121518935/222940161-f3e0bd8f-1f89-45a5-9113-ba828169c2a6.jpeg)
+
+*  20 year old (woman with freckles) sitting on bearded man's lap, ((penis penetrating pussy)), (detailed face), 1man and 1girl close together, wide-angle
+*  Negative prompt: ((blurry)), duplicate, deformed, makeup, cartoon, animated, render, missing limbs, child, childish, close-up
+Size: 512x768, Seed: 2334190289, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: f93e6a50ac
+![156231](https://user-images.githubusercontent.com/121518935/222940162-98efabf4-3ac0-47dd-b96a-912e410214ba.jpeg)
 
 *   naked 20 year old girl sucking dick, giving blowjob, ((detailed facial features))
 *   Negative prompt: cum, animated, cartoon, ((blurry)), duplicate
@@ -76,6 +91,10 @@ Size: 512x512, Seed: 3082279051, Steps: 20, Sampler: Euler a, CFG scale: 7, Mode
 Size: 512x512, Seed: 3581029188, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: e0ece800
 
 ![width=512 (2)](https://user-images.githubusercontent.com/121518935/214595765-e117f739-194b-4578-afbc-5f64cc894290.jpeg)
+
+
+
+
 
 *   18 year old girl sucking dick, ((detailed facial expressions))
 *   Negative prompt: childish, child, guly, unnatural limbs
