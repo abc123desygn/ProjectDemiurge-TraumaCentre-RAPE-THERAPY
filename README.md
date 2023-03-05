@@ -26,7 +26,7 @@ PROPERTY OF ABC 123 DESYGN ™
 
 ## Example Images:
 
-### NOTE: None of the sample images were altered, upscaled, etc. All can be reproduced using the metadata via the unpruned model with xformers disabled (however the pruned model should now have the same results).
+### NOTE: None of the sample images were altered, upscaled.
 
 
 
