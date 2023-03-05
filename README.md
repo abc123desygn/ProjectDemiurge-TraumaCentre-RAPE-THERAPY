@@ -71,6 +71,7 @@ Size: 512x768, Seed: 3416187986, Steps: 20, Sampler: Euler a, CFG scale: 7, Mode
 *  20 year old (woman with freckles) sitting on bearded man's lap, ((penis penetrating pussy)), (detailed face), 1man and 1girl close together, wide-angle
 *  Negative prompt: ((blurry)), duplicate, deformed, makeup, cartoon, animated, render, missing limbs, child, childish, close-up
 Size: 512x768, Seed: 2334190289, Steps: 20, Sampler: Euler a, CFG scale: 7, Model hash: f93e6a50ac
+
 ![156231](https://user-images.githubusercontent.com/121518935/222940162-98efabf4-3ac0-47dd-b96a-912e410214ba.jpeg)
 
 *   naked 20 year old girl sucking dick, giving blowjob, ((detailed facial features))
