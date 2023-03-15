@@ -1,4 +1,7 @@
 # ProjectDemiurge-TraumaCentre-RAPE-THERAPY 
+CLICK HERE TO GET THE LATEST NOTEBOOK HERE: [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/abc123desygn/ProjectDemiurge-TraumaCentre-RAPE-THERAPY/blob/main/ABC_123_DESYGN_%E2%84%A2_(DEMIURGE)_TraumaCentre_RAPE_THERAPY.ipynb) 
+
+
 
 ## ABC 123 DESYGN ™ : TRAUMA CENTRE ™ : RAPE THERAPY (version 1.3) 🏥 ⚕️ 🚑 🩺 ⚕️ (NEW)
 
